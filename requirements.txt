@@ -1,0 +1,5 @@
+transformers
+requests
+pillow
+torch
+customtkinter
